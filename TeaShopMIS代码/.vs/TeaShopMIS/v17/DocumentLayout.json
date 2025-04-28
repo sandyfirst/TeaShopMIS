@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\datawork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\datawork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|d:\\grade-2\\\u5DF2\u7ED3\u675F\\c#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_teashopmis\\teashopmis\\teashopmis\\frm_userinfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_userinfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_userinfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_userinfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_teapricemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_teapricemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_teapricemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_teapricemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_teainfoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_teainfoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_teainfoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_teainfoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_teainfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_teainfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_playmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_playmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_playmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_playmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_orderinfoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_orderinfoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_memberinfoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_memberinfoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_memberinfoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_memberinfoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_memberinfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_memberinfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_memberinfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_memberinfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_businesschart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_businesschart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_businesschart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_businesschart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_teainfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_teainfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TeaShopMIS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\teashopmis\\frm_login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452FB5C7-5180-4476-B6E9-5C6ED0F8B6C9}|TeaShopMIS\\TeaShopMIS.csproj|solutionrelative:teashopmis\\frm_login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Frm_Main.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Main.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_Main.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Main.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_Main.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAgwLwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:46:17.75Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Frm_Main.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Main.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_Main.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_Main.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_Main.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:38:28.387Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_TeaInfoQuery.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_TeaInfoQuery.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_TeaInfoQuery.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_TeaInfoQuery.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_TeaInfoQuery.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwv0EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:51:50.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_UserInfoManage.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_UserInfoManage.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_UserInfoManage.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_UserInfoManage.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_UserInfoManage.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAKYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:41:22.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm_TeaInfoQuery.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_TeaInfoQuery.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_TeaInfoQuery.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_TeaInfoQuery.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_TeaInfoQuery.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:51:18.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_UserInfoManage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_UserInfoManage.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_UserInfoManage.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_UserInfoManage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_UserInfoManage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:13:32.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataWork.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\DataWork.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\DataWork.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\DataWork.cs",
+              "RelativeToolTip": "TeaShopMIS\\DataWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:43:15.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_TeaPriceManage.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_TeaPriceManage.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_TeaPriceManage.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_TeaPriceManage.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_TeaPriceManage.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwEsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:53:17.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Frm_PlayMusic.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_PlayMusic.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_PlayMusic.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_PlayMusic.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_PlayMusic.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwE4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:05:03.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Frm_PlayMusic.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_PlayMusic.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_PlayMusic.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_PlayMusic.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_PlayMusic.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:03:48.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_TeaPriceManage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_TeaPriceManage.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_TeaPriceManage.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_TeaPriceManage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_TeaPriceManage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:13:28.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Frm_OrderInfoQuery.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_OrderInfoQuery.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_OrderInfoQuery.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_OrderInfoQuery.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_OrderInfoQuery.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:13:41.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frm_TeaInfoManage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_TeaInfoManage.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_TeaInfoManage.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_TeaInfoManage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_TeaInfoManage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:47:23.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Frm_Order.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Order.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_Order.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Order.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_Order.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAqwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:20:18.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Frm_Order.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Order.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_Order.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_Order.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_Order.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:13:15.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Frm_MemberInfoManage.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_MemberInfoManage.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_MemberInfoManage.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_MemberInfoManage.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_MemberInfoManage.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:05:44.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Frm_MemberInfoManage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_MemberInfoManage.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_MemberInfoManage.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_MemberInfoManage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_MemberInfoManage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:16:39.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Frm_Login.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Login.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_Login.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_Login.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_Login.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:37:57.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Frm_MemberInfoQuery.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_MemberInfoQuery.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_MemberInfoQuery.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_MemberInfoQuery.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_MemberInfoQuery.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:42:46.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Frm_ChangePassword.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_ChangePassword.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_ChangePassword.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_ChangePassword.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_ChangePassword.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:39:45.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Frm_MemberInfoQuery.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_MemberInfoQuery.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_MemberInfoQuery.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_MemberInfoQuery.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_MemberInfoQuery.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:13:07.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Frm_ChangePassword.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_ChangePassword.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_ChangePassword.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_ChangePassword.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_ChangePassword.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:40:35.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Frm_BusinessChart.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_BusinessChart.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_BusinessChart.cs",
+              "ToolTip": "D:\\Grade-2\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_BusinessChart.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\C#\\TeaShopMIS\\TeaShopMIS\\Frm_BusinessChart.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:38:13.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Frm_BusinessChart.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_BusinessChart.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_BusinessChart.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_BusinessChart.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_BusinessChart.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T00:16:40.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Frm_Login.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Login.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_Login.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Login.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_Login.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:29:29.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Frm_TeaInfoManage.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_TeaInfoManage.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_TeaInfoManage.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_TeaInfoManage.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_TeaInfoManage.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAlwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:48:14.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Program.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Program.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Program.cs",
+              "RelativeToolTip": "TeaShopMIS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:15:44.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Frm_Main.Designer.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Main.Designer.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_Main.Designer.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Main.Designer.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_Main.Designer.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAApwPQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:37:47.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeaShopMIS",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\TeaShopMIS.csproj",
+              "RelativeDocumentMoniker": "TeaShopMIS\\TeaShopMIS.csproj",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\TeaShopMIS.csproj",
+              "RelativeToolTip": "TeaShopMIS\\TeaShopMIS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-19T02:42:38.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Frm_Login.Designer.cs",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Login.Designer.cs",
+              "RelativeDocumentMoniker": "TeaShopMIS\\Frm_Login.Designer.cs",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\Frm_Login.Designer.cs",
+              "RelativeToolTip": "TeaShopMIS\\Frm_Login.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:29:37.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\App.config",
+              "RelativeDocumentMoniker": "TeaShopMIS\\App.config",
+              "ToolTip": "D:\\Grade-2\\\u5DF2\u7ED3\u675F\\C#\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\.net\u671F\u672B\u5927\u4F5C\u4E1A\\23331117_\u65BD\u53EF\u6B23_TeaShopMIS\\TeaShopMIS\\TeaShopMIS\\App.config",
+              "RelativeToolTip": "TeaShopMIS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T01:15:32.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
